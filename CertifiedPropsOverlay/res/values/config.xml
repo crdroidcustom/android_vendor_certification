@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Build properties from a GMS certified device against current platform SPL level -->
-    <string-array name="config_certifiedBuildProperties" translatable="false">
+    <string-array name="config_certBP" translatable="false">
         <item>MANUFACTURER:Google</item>
         <item>MODEL:Pixel 7a</item>
         <item>FINGERPRINT:google/lynx_beta/lynx:16/BP31.250610.004/13769805:user/release-keys</item>
